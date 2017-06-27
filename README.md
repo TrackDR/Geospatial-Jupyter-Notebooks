@@ -3,7 +3,7 @@
 Binder usually is overtasked
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/trackdr/moddedipythonnotebooks)
 
-Better idea than binder is to launch a paid for instance using
+Better idea than Binder is to launch a paid for instance using
 http://www.jeremydjacksonphd.com/docker-for-aws/
 
 Make new notebook
