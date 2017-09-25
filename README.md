@@ -1,5 +1,7 @@
 # Geospatial-Jupyter-Notebooks
 
+Run on Azure: https://notebooks.azure.com/trackdr/libraries/trackdr-Geospatial-Notebooks
+
 Binder usually is overtasked
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/trackdr/moddedipythonnotebooks)
 
@@ -11,3 +13,5 @@ Make new notebook
 !git clone https://github.com/TrackDR/Geospatial-Jupyter-Notebooks
 
 Open notebook out of cloned directory
+
+
